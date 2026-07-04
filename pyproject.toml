@@ -1,0 +1,11 @@
+[project]
+name = "rectpack-sample"
+version = "0.1.0"
+description = "Rectangle packing sample with multi-type workpiece support and visualization"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.11.0",
+    "rectpack>=0.2.2",
+]
+license = { text = "MIT" }
